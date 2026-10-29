@@ -1,0 +1,6 @@
+{
+  "appId": "com.autodraft.pro",
+  "appName": "AutoDraft Pro",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
